@@ -1,0 +1,9 @@
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Jebaz\Desktop\LK\Converter\Converter\obj\Debug\Converter.pdb
